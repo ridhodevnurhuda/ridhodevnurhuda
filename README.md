@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridho Nurhuda</h1>
 <h3 align="center">Goals 2024 : MERN Fullstack</h3>
 
-- 👨‍💻 All of my projects are available at [this link repository]([https://github.com/ridhodevnurhuda](https://github.com/ridhodevnurhuda?tab=repositories))
+- 👨‍💻 All of my projects are available at [my Repository]([https://awesomeopensource.com/project/elangosundar/awesome-README-templates](https://github.com/ridhodevnurhuda?tab=repositories))
 
 - 📫 How to reach me **ridho.dev.nurhuda@gmail.com**
 
