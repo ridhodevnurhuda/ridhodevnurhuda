@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridho Nurhuda</h1>
 <h3 align="center">Use Reactjs from 2023 until now. Goals 2024 : MERN Fullstack</h3>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/ridhodevnurhuda?tab=repositories"><img align="center" src=["https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://rahuldkjain.github.io/gh-profile-readme-generator/)" alt="ridhodevnurhuda" height="30" width="40" /> </a>
+- 👨‍💻 All of my projects are available at <p align="left"> <a href="https://github.com/ridhodevnurhuda?tab=repositories" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="express" width="40" height="40"/></p>
 
 - 📫 How to reach me **ridho.dev.nurhuda@gmail.com**
 
