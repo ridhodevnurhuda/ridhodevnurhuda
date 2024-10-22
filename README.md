@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ridho Nurhuda</h1>
-<h3 align="center">Goals 2024 : MERN Fullstack</h3>
+<h3 align="center">Goals 2024 : Backend Javascript with Devops </h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ridhodevnurhuda?tab=repositories](https://github.com/ridhodevnurhuda?tab=repositories)
 
